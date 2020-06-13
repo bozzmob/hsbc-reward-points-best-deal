@@ -14,6 +14,6 @@ Run the `index.js` script -> `node index.js` Zero Dependency script.
 
 ## Output
 
-![output](D:\work\satvik-me\github\hsbc-reward-points-best-deal\output.PNG)
+![output](./output.PNG)
 
 MIT License
